@@ -12,7 +12,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://vijaypowar4.github.io" target="_blank"><img src="examples/preview.jpg">
+    <a href="https://vijaypowar4.github.io" target="_blank"><img src="examples/preview.png">
   </a>
   </kbd>
 </p>
