@@ -3,7 +3,8 @@
 
 > https://vijaypowar4.github.io
 
-[![Linkedin Badge](https://img.shields.io/badge/-vijaypowar7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vijaypowar/)](https://www.linkedin.com/in/vijaypowar7)
+[![Linkedin Badge](https://img.shields.io/badge/-vijaypowar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vijaypowar/)](https://www.linkedin.com/in/vijaypowar)
+[![Medium Badge](https://img.shields.io/badge/-@vijaypowar-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@vijaypowar)](https://medium.com/@vijaypowar)
 [![Gmail Badge](https://img.shields.io/badge/-vijaypowar4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vijaypowar4@gmail.com)](mailto:vijaypowar4@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+918888311950&text=Olá!)](https://api.whatsapp.com/send?phone=+918888311950&text=Olá!)
 [![Telegram Badge](https://img.shields.io/badge/-powarvijay-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/powarvijay)](https://t.me/powarvijay)
@@ -11,7 +12,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://vijaypowar4.github.io" target="_blank"><img src="examples/preview.gif">
+    <a href="https://vijaypowar4.github.io" target="_blank"><img src="examples/preview.jpg">
   </a>
   </kbd>
 </p>
